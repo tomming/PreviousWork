@@ -1,5 +1,21 @@
 # Previous Work #
 
+## Lobby ##
+-Developed with HTML/CSS
+
+![image](https://user-images.githubusercontent.com/8277221/190217930-8edafb28-b783-470c-ab4d-facf24597b2d.png)
+![image](https://user-images.githubusercontent.com/8277221/190218043-dd86d3fd-11e7-4c51-ba46-2caef9a7cbf0.png)
+![image](https://user-images.githubusercontent.com/8277221/190218291-a6720096-bd79-49e9-8fe8-8c54576521a6.png)
+
+
+## Mobile App ##
+-Developed and publish Android and IOS app
+
+### Goal4Fun ###
+-Goal4Fun is a gaming platform for the sport hobbyist
+![image](https://user-images.githubusercontent.com/8277221/190217425-7473636a-4d0b-4596-8a0b-209d74eb62c1.png)
+
+
 ## 2D Game ##
 - Developed with Cocos Creator
 
