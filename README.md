@@ -1,7 +1,7 @@
 # Previous Work #
 
 ## Lobby ##
--Developed with HTML/CSS
+-Developed with HTML, CSS, Javasript and Boostrap
 
 ![image](https://user-images.githubusercontent.com/8277221/190217930-8edafb28-b783-470c-ab4d-facf24597b2d.png)
 ![image](https://user-images.githubusercontent.com/8277221/190218043-dd86d3fd-11e7-4c51-ba46-2caef9a7cbf0.png)
