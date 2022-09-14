@@ -13,12 +13,16 @@
 
 ### Goal4Fun ###
 -Goal4Fun is a gaming platform for the sport hobbyist
-![image](https://user-images.githubusercontent.com/8277221/190218527-b1716f47-49c1-491f-9a3d-abf88ebb4411.png)
-![image](https://user-images.githubusercontent.com/8277221/190218567-12439709-d36c-4ee6-b146-e4dd389cb2bb.png)
-![image](https://user-images.githubusercontent.com/8277221/190218581-bc686e61-8bce-412c-9e50-e41772f11a2c.png)
-![image](https://user-images.githubusercontent.com/8277221/190218613-3f13e7c9-03dd-416a-8a63-cfc3481edf85.png)
-![image](https://user-images.githubusercontent.com/8277221/190218629-c34d2f44-d002-4c20-aae4-c06133ec40ce.png)
+<div style="display: flex">
+<img src="https://user-images.githubusercontent.com/8277221/190218527-b1716f47-49c1-491f-9a3d-abf88ebb4411.png" width="225"/> 
+<img src="https://user-images.githubusercontent.com/8277221/190218567-12439709-d36c-4ee6-b146-e4dd389cb2bb.png" width="225"/> 
+<img src="https://user-images.githubusercontent.com/8277221/190218581-bc686e61-8bce-412c-9e50-e41772f11a2c.png" width="225"/> 
+</div>
 
+<div style="display: flex">
+<img src="https://user-images.githubusercontent.com/8277221/190218613-3f13e7c9-03dd-416a-8a63-cfc3481edf85.png" width="225"/> 
+<img src="https://user-images.githubusercontent.com/8277221/190218629-c34d2f44-d002-4c20-aae4-c06133ec40ce.png" width="225"/> 
+</div>
 
 ## 2D Game ##
 - Developed with Cocos Creator
