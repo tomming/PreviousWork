@@ -62,6 +62,22 @@
 ### Husky Poker ###
 ![image](https://user-images.githubusercontent.com/8277221/190216735-3f35581e-d79d-45a0-916e-fabbae4da432.png)
 
+## CASUAL GAME ##
+<img width="737" alt="Screenshot 2024-12-16 at 10 24 16 AM" src="https://github.com/user-attachments/assets/1aa2bd48-0551-4117-a8aa-717016dd6477" />
+<img width="752" alt="Screenshot 2024-12-16 at 10 04 35 AM" src="https://github.com/user-attachments/assets/ea61707a-c8ff-453a-bd47-0cd4ee7f0fc7" />
+<img width="744" alt="Screenshot 2024-12-16 at 10 04 09 AM" src="https://github.com/user-attachments/assets/c3ba4397-9181-4226-8c3e-c381c783aa4e" />
+<img width="761" alt="Screenshot 2024-12-16 at 10 06 18 AM" src="https://github.com/user-attachments/assets/8279f832-ee64-41d2-823b-2be2e84deb34" />
+<img width="755" alt="Screenshot 2024-12-16 at 10 03 48 AM" src="https://github.com/user-attachments/assets/da39c9da-1b68-4995-8927-47f159064d63" />
+<img width="748" alt="Screenshot 2024-12-16 at 10 07 51 AM" src="https://github.com/user-attachments/assets/8bc8e91f-b55b-470b-8260-c3c24e6565d5" />
+<img width="754" alt="Screenshot 2024-12-16 at 10 13 30 AM" src="https://github.com/user-attachments/assets/a8ed6d28-b24d-4f91-86a5-e995fb7316b5" />
+<img width="750" alt="Screenshot 2024-12-16 at 10 09 26 AM" src="https://github.com/user-attachments/assets/e88f5210-3e12-46eb-bf3a-23cd9159f1d3" />
+<img width="745" alt="Screenshot 2024-12-16 at 10 10 32 AM" src="https://github.com/user-attachments/assets/a86791a6-e868-43a2-877d-4cead9057109" />
+<img width="750" alt="Screenshot 2024-12-16 at 10 09 54 AM" src="https://github.com/user-attachments/assets/b9213eb5-0680-4694-88bf-be6a8c14b9a8" />
+<img width="748" alt="Screenshot 2024-12-16 at 10 10 10 AM" src="https://github.com/user-attachments/assets/2d53b1eb-4c35-448d-80ab-a6bd8ed15f88" />
+
+
+
+
 
 ## FOOD DELIVERY SYSTEM (JAVA) ##
 - Involve Java programming
